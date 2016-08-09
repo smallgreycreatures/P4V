@@ -40,7 +40,7 @@ public class Stuff {
 
 			}
 			server.setUserName("fnofgs");
-			server.login("calle45balle");
+			server.login("");
 			
 			
 			
